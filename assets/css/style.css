@@ -18,6 +18,12 @@ h1 {
     margin-bottom: 16px;
 }
 
+.image-caption {
+    text-align: right;
+    font-size: 0.9rem;
+    color: #a7c3ff;
+}
+
 .section {
     margin: 20px 0;
     padding: 18px;
