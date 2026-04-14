@@ -1,0 +1,1386 @@
+[
+  {
+    "title": "Note!",
+    "description": "Thats the exact copy of the guide a dude postet on steam, but with checkmarks. Shoutout to them! See the original guide here: <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3104481630\" target=\"_blank\">Original Guide</a>\nAlso their pictures, not mine. Everything past this block is borrowed.",
+    "elements": []
+  },
+  {
+    "title": "Introduction",
+    "description": "",
+    "elements": [
+      {
+        "type": "description",
+        "text": "A few things in advance:"
+      },
+      {
+        "type": "description",
+        "text": "I tried to write the table in a specific order if possible so you don't have to fly back and forth over the whole map, but I wrote the runes you can find in caves seperately, because they require some preperation and even in some easier caves you can't just rush in."
+      },
+      {
+        "type": "description",
+        "text": "You can collect the runes on your mount which makes it safer to get them and this way even your dino receives the x4 xp bonus for the 600 seconds.\nThe rune icon serves only as counter and if you hold \"H\" you can see how much you already got.\nThe icon does not disappear after you collected all runes, so better get used to it."
+      },
+      {
+        "type": "description",
+        "text": "I recommend sticking to the order so you don't loose track, but you don't have to do that, this guide is intended to help you and not limit.\nI'm only saying this because you can see how many are missing, but you can't see which ones are missing."
+      },
+      {
+        "type": "description",
+        "text": "There are the wikis or videos that tell you the coordinates, but sometimes important additional information about the locations or the caves where the runes are is missing.\nI have collected all runes myself and can provide information to things like rune locations that go beyond what your GPS can display or those that are hidden and this guide should compensate that."
+      },
+      {
+        "type": "description",
+        "text": "A GPS is necessary, otherwise the coordinates would be useless, but I highly recommend the use of a Desmodus, because the other realms are treated like caves and some locations are high up.\nAlso the caves of Fjordur are not designed for a pure land mount, so you have to get a Rock Drake or a Shadowmane, a Desmodus a glider / climber or have cave flyers enabled.\nOtherwise you'll need too many Grappling Hooks and Climbing Picks."
+      },
+      {
+        "type": "description",
+        "text": "For some caves you will need SCUBA gear, Lesser Antidote, Fur and Ghillie armour for hypothermal and hyperthermal insulation and a light source (preferably a light pet).\nA hazard suit is not needed"
+      },
+      {
+        "type": "description",
+        "text": "And that's it, I wish you a good hunt for the runes."
+      }
+    ]
+  },
+  {
+    "title": "Vannaland",
+    "description": "Main surface runes and easier cave entries (see notes for cave entrances).",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "63.9",
+        "lon": "95.7"
+      },
+      {
+        "type": "coord",
+        "lat": "64.6",
+        "lon": "93.1"
+      },
+      {
+        "type": "coord",
+        "lat": "60.6",
+        "lon": "80.5"
+      },
+      {
+        "type": "coord",
+        "lat": "60.5",
+        "lon": "70.7"
+      },
+      {
+        "type": "coord",
+        "lat": "52.5",
+        "lon": "82.4"
+      },
+      {
+        "type": "coord",
+        "lat": "48.3",
+        "lon": "72.7"
+      },
+      {
+        "type": "coord",
+        "lat": "45.5",
+        "lon": "61.1"
+      },
+      {
+        "type": "coord",
+        "lat": "41.7",
+        "lon": "52.8"
+      },
+      {
+        "type": "coord",
+        "lat": "35.5",
+        "lon": "49.6"
+      },
+      {
+        "type": "coord",
+        "lat": "34.4",
+        "lon": "42.6"
+      },
+      {
+        "type": "coord",
+        "lat": "28.7",
+        "lon": "43.5"
+      },
+      {
+        "type": "coord",
+        "lat": "25.1",
+        "lon": "50.9"
+      },
+      {
+        "type": "coord",
+        "lat": "27.1",
+        "lon": "49.8"
+      },
+      {
+        "type": "coord",
+        "lat": "30.9",
+        "lon": "52.5"
+      },
+      {
+        "type": "coord",
+        "lat": "22.4",
+        "lon": "61.6",
+        "desc": "look to the southwest to find the entrance better"
+      },
+      {
+        "type": "coord",
+        "lat": "26.4",
+        "lon": "64.6"
+      },
+      {
+        "type": "coord",
+        "lat": "31.6",
+        "lon": "66.5"
+      },
+      {
+        "type": "coord",
+        "lat": "32.2",
+        "lon": "65.2"
+      },
+      {
+        "type": "coord",
+        "lat": "34.3",
+        "lon": "82.9"
+      },
+      {
+        "type": "coord",
+        "lat": "39.3",
+        "lon": "95.5",
+        "desc": "inside a gap of the cliff"
+      },
+      {
+        "type": "coord",
+        "lat": "37.4",
+        "lon": "96.8"
+      },
+      {
+        "type": "coord",
+        "lat": "30.0",
+        "lon": "91.3"
+      },
+      {
+        "type": "coord",
+        "lat": "22.7",
+        "lon": "82.3"
+      },
+      {
+        "type": "coord",
+        "lat": "19.2",
+        "lon": "77.4"
+      },
+      {
+        "type": "coord",
+        "lat": "18.5",
+        "lon": "79.5"
+      },
+      {
+        "type": "coord",
+        "lat": "18.2",
+        "lon": "91.1"
+      },
+      {
+        "type": "coord",
+        "lat": "08.4",
+        "lon": "92.6"
+      },
+      {
+        "type": "coord",
+        "lat": "06.5",
+        "lon": "76.0"
+      },
+      {
+        "type": "coord",
+        "lat": "13.2",
+        "lon": "63.8"
+      },
+      {
+        "type": "coord",
+        "lat": "06.4",
+        "lon": "60.7"
+      },
+      {
+        "type": "coord",
+        "lat": "06.3",
+        "lon": "56.5"
+      },
+      {
+        "type": "coord",
+        "lat": "02.9",
+        "lon": "14.2"
+      },
+      {
+        "type": "coord",
+        "lat": "11.1",
+        "lon": "05.0"
+      },
+      {
+        "type": "coord",
+        "lat": "14.7",
+        "lon": "02.4"
+      },
+      {
+        "type": "coord",
+        "lat": "13.0",
+        "lon": "17.2"
+      },
+      {
+        "type": "coord",
+        "lat": "17.6",
+        "lon": "14.7"
+      },
+      {
+        "type": "coord",
+        "lat": "19.8",
+        "lon": "18.8"
+      },
+      {
+        "type": "coord",
+        "lat": "33.7",
+        "lon": "20.0"
+      },
+      {
+        "type": "entrance",
+        "lat": "56.7",
+        "lon": "84.6",
+        "name": "Cave Entrance - Beiygjaheimr"
+      },
+      {
+        "type": "coord",
+        "lat": "53.9",
+        "lon": "83.1"
+      },
+      {
+        "type": "coord",
+        "lat": "50.3",
+        "lon": "81.7"
+      },
+      {
+        "type": "coord",
+        "lat": "51.8",
+        "lon": "84.9"
+      },
+      {
+        "type": "entrance",
+        "lat": "57.2",
+        "lon": "66.0",
+        "name": "Cave Entrance - The Overgrown Grave"
+      },
+      {
+        "type": "coord",
+        "lat": "53.7",
+        "lon": "65.2"
+      },
+      {
+        "type": "coord",
+        "lat": "55.2",
+        "lon": "67.4"
+      },
+      {
+        "type": "entrance",
+        "lat": "40.0",
+        "lon": "57.8",
+        "name": "Cave Entrance - The Hidden Worlds"
+      },
+      {
+        "type": "coord",
+        "lat": "38.1",
+        "lon": "60.0"
+      },
+      {
+        "type": "entrance",
+        "lat": "12.4",
+        "lon": "62.6",
+        "name": "Cave Entrance - The Shimmering Halls"
+      },
+      {
+        "type": "coord",
+        "lat": "13.5",
+        "lon": "67.6"
+      },
+      {
+        "type": "entrance",
+        "lat": "04.6",
+        "lon": "47.2",
+        "name": "Cave Entrance - The Beyla Boss Cave"
+      },
+      {
+        "type": "coord",
+        "lat": "06.9",
+        "lon": "45.3"
+      },
+      {
+        "type": "entrance",
+        "lat": "20.5",
+        "lon": "08.7",
+        "name": "Cave Entrance - The Snowglobe"
+      },
+      {
+        "type": "coord",
+        "lat": "19.1",
+        "lon": "11.8"
+      },
+      {
+        "type": "entrance",
+        "lat": "28.6",
+        "lon": "39.9",
+        "name": "Cave Entrance - Lindbjord Cave"
+      },
+      {
+        "type": "coord",
+        "lat": "25.7",
+        "lon": "40.6"
+      },
+      {
+        "type": "coord",
+        "lat": "27.6",
+        "lon": "46.1"
+      }
+    ]
+  },
+  {
+    "title": "Bolbjord",
+    "description": "Small region",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "44.9",
+        "lon": "15.9"
+      },
+      {
+        "type": "coord",
+        "lat": "45.9",
+        "lon": "11.5"
+      },
+      {
+        "type": "coord",
+        "lat": "42.6",
+        "lon": "04.6"
+      },
+      {
+        "type": "coord",
+        "lat": "40.4",
+        "lon": "05.2"
+      }
+    ]
+  },
+  {
+    "title": "Vardiland",
+    "description": "Includes waterfalls & rivers",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "51.2",
+        "lon": "38.3"
+      },
+      {
+        "type": "coord",
+        "lat": "60.4",
+        "lon": "35.6"
+      },
+      {
+        "type": "coord",
+        "lat": "66.6",
+        "lon": "39.1"
+      },
+      {
+        "type": "coord",
+        "lat": "66.0",
+        "lon": "33.5"
+      },
+      {
+        "type": "coord",
+        "lat": "63.9",
+        "lon": "25.9"
+      },
+      {
+        "type": "coord",
+        "lat": "63.2",
+        "lon": "10.1"
+      },
+      {
+        "type": "coord",
+        "lat": "65.9",
+        "lon": "07.7"
+      },
+      {
+        "type": "coord",
+        "lat": "67.8",
+        "lon": "07.9"
+      },
+      {
+        "type": "coord",
+        "lat": "69.7",
+        "lon": "05.0"
+      },
+      {
+        "type": "coord",
+        "lat": "70.0",
+        "lon": "12.2"
+      },
+      {
+        "type": "coord",
+        "lat": "73.7",
+        "lon": "19.8"
+      },
+      {
+        "type": "coord",
+        "lat": "78.8",
+        "lon": "15.6"
+      },
+      {
+        "type": "coord",
+        "lat": "77.8",
+        "lon": "09.9"
+      },
+      {
+        "type": "coord",
+        "lat": "80.0",
+        "lon": "03.5"
+      },
+      {
+        "type": "coord",
+        "lat": "81.2",
+        "lon": "04.6"
+      },
+      {
+        "type": "coord",
+        "lat": "78.8",
+        "lon": "03.4",
+        "desc": "a little way down the waterfall"
+      },
+      {
+        "type": "coord",
+        "lat": "86.1",
+        "lon": "06.9"
+      },
+      {
+        "type": "coord",
+        "lat": "89.1",
+        "lon": "06.5"
+      },
+      {
+        "type": "coord",
+        "lat": "89.3",
+        "lon": "02.6"
+      },
+      {
+        "type": "coord",
+        "lat": "92.0",
+        "lon": "01.9"
+      },
+      {
+        "type": "coord",
+        "lat": "91.6",
+        "lon": "07.6"
+      },
+      {
+        "type": "coord",
+        "lat": "94.3",
+        "lon": "07.7"
+      },
+      {
+        "type": "coord",
+        "lat": "97.6",
+        "lon": "06.4"
+      },
+      {
+        "type": "coord",
+        "lat": "97.8",
+        "lon": "05.5"
+      },
+      {
+        "type": "coord",
+        "lat": "96.9",
+        "lon": "21.9"
+      },
+      {
+        "type": "coord",
+        "lat": "91.3",
+        "lon": "16.4"
+      },
+      {
+        "type": "coord",
+        "lat": "89.7",
+        "lon": "13.7"
+      },
+      {
+        "type": "coord",
+        "lat": "86.7",
+        "lon": "13.0"
+      },
+      {
+        "type": "coord",
+        "lat": "83.2",
+        "lon": "14.6",
+        "desc": "down by the river"
+      },
+      {
+        "type": "coord",
+        "lat": "79.9",
+        "lon": "28.3"
+      },
+      {
+        "type": "coord",
+        "lat": "74.4",
+        "lon": "33.9"
+      },
+      {
+        "type": "coord",
+        "lat": "76.8",
+        "lon": "36.2"
+      },
+      {
+        "type": "coord",
+        "lat": "83.5",
+        "lon": "35.3"
+      },
+      {
+        "type": "coord",
+        "lat": "87.6",
+        "lon": "45.0"
+      },
+      {
+        "type": "coord",
+        "lat": "94.0",
+        "lon": "34.6"
+      },
+      {
+        "type": "coord",
+        "lat": "91.7",
+        "lon": "41.7",
+        "desc": "underwater cave entrance"
+      },
+      {
+        "type": "coord",
+        "lat": "90.6",
+        "lon": "39.8"
+      }
+    ]
+  },
+  {
+    "title": "Balheimr",
+    "description": "Volcanic / wyvern trench area",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "82.1",
+        "lon": "73.6"
+      },
+      {
+        "type": "coord",
+        "lat": "81.7",
+        "lon": "79.4"
+      },
+      {
+        "type": "coord",
+        "lat": "75.4",
+        "lon": "78.8"
+      },
+      {
+        "type": "coord",
+        "lat": "72.1",
+        "lon": "89.2"
+      },
+      {
+        "type": "coord",
+        "lat": "74.9",
+        "lon": "94.7"
+      },
+      {
+        "type": "coord",
+        "lat": "75.1",
+        "lon": "95.5"
+      },
+      {
+        "type": "coord",
+        "lat": "84.0",
+        "lon": "96.3"
+      },
+      {
+        "type": "coord",
+        "lat": "85.8",
+        "lon": "92.1"
+      },
+      {
+        "type": "coord",
+        "lat": "88.0",
+        "lon": "92.3"
+      },
+      {
+        "type": "coord",
+        "lat": "94.0",
+        "lon": "96.5"
+      },
+      {
+        "type": "coord",
+        "lat": "93.0",
+        "lon": "93.1"
+      },
+      {
+        "type": "description",
+        "text": "At this point you should be halfway done."
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2269315845101785022/E8AFFCD7799517A7AC62B2A4943AE12937FB7164/"
+      },
+      {
+        "type": "coord",
+        "lat": "96.9",
+        "lon": "84.1"
+      },
+      {
+        "type": "coord",
+        "lat": "96.0",
+        "lon": "78.2"
+      },
+      {
+        "type": "coord",
+        "lat": "92.7",
+        "lon": "84.8"
+      },
+      {
+        "type": "coord",
+        "lat": "89.8",
+        "lon": "85.2"
+      },
+      {
+        "type": "coord",
+        "lat": "88.3",
+        "lon": "84.8"
+      },
+      {
+        "type": "coord",
+        "lat": "87.1",
+        "lon": "82.7"
+      },
+      {
+        "type": "coord",
+        "lat": "81.8",
+        "lon": "86.0"
+      },
+      {
+        "type": "coord",
+        "lat": "85.4",
+        "lon": "71.5",
+        "desc": "inside the Wyvern Trench"
+      },
+      {
+        "type": "coord",
+        "lat": "90.6",
+        "lon": "73.7",
+        "desc": "inside the Wyvern Trench"
+      }
+    ]
+  },
+  {
+    "title": "Artifact / Large / Demanding Caves",
+    "description": "Large and demanding caves: bring Grappling Hooks, cave flyers, Lesser Antidote and bug repellent where needed. Creature levels can be high (up to 600 in some caves).",
+    "elements": [
+      {
+        "type": "entrance",
+        "lat": "45.5",
+        "lon": "63.4",
+        "name": "Cave Entrance - The Golden Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "42.7",
+        "lon": "64.4"
+      },
+      {
+        "type": "description",
+        "text": "Creatures can have levels up to 600. You have to get over the lava, so a cave flyer or Grappling Hooks are needed as well as Bug Repellent and Lesser Antidote for the creatures inside."
+      },
+      {
+        "type": "entrance",
+        "lat": "10.1",
+        "lon": "84.5",
+        "name": "Cave Entrance - Bear Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "11.2",
+        "lon": "84.2"
+      },
+      {
+        "type": "coord",
+        "lat": "13.7",
+        "lon": "85.2"
+      },
+      {
+        "type": "coord",
+        "lat": "18.4",
+        "lon": "82.6"
+      },
+      {
+        "type": "description",
+        "text": "Maximum creature level is 300 except for the smaller bugs which can have level 450. You'll need climbing gear for this, but a Desmodus can also completely traverse the cave. Paths may look blocked, but there is a small shaft to the next area that is sometimes above you."
+      },
+      {
+        "type": "entrance",
+        "lat": "20.7",
+        "lon": "57.3",
+        "name": "Cave Entrance - Molten Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "19.0",
+        "lon": "59.2",
+        "desc": "after the lava river, look to the right"
+      },
+      {
+        "type": "coord",
+        "lat": "16.2",
+        "lon": "61.6",
+        "desc": "on the left path from the main chamber"
+      },
+      {
+        "type": "coord",
+        "lat": "17.8",
+        "lon": "65.7",
+        "desc": "on the right path"
+      },
+      {
+        "type": "description",
+        "text": "Creatures can have a level up to 300. Lesser Antidote is needed as well as a cave flyer or many Grappling Hooks."
+      },
+      {
+        "type": "entrance",
+        "lat": "07.7",
+        "lon": "39.0",
+        "name": "Cave Entrance - Drengrheimr"
+      },
+      {
+        "type": "coord",
+        "lat": "08.1",
+        "lon": "37.7"
+      },
+      {
+        "type": "coord",
+        "lat": "07.5",
+        "lon": "34.4"
+      },
+      {
+        "type": "coord",
+        "lat": "06.8",
+        "lon": "33.5",
+        "desc": "inside the water"
+      },
+      {
+        "type": "description",
+        "text": "The level cap for water creatures is 150 and for land 300, except the Megalosaurus which spawns with a level maximum of 150. You need something to get back up after you collected the rune in the water and you may also bring a Lesser Antidote for the Onyc. There is another entrance at 03.4 / 32.7 you can use as exit."
+      },
+      {
+        "type": "entrance",
+        "lat": "08.4",
+        "lon": "24.2",
+        "name": "Cave Entrance - The Frozen Fortress"
+      },
+      {
+        "type": "coord",
+        "lat": "07.5",
+        "lon": "22.5"
+      },
+      {
+        "type": "coord",
+        "lat": "06.5",
+        "lon": "23.3"
+      },
+      {
+        "type": "coord",
+        "lat": "06.5",
+        "lon": "28.2",
+        "desc": "after the ice tunnel, fly/climb up to 06.7 / 26.5 look east and then you'll see a tunnel above you"
+      },
+      {
+        "type": "description",
+        "text": "The creatures on land have a level limit that is twice as high as normal, while those in the water can have a level that is three times as high. Don't fall down to the water area or you will not be able to get back up without climbing gear or tames."
+      },
+      {
+        "type": "entrance",
+        "lat": "49.3",
+        "lon": "14.4",
+        "name": "Cave Entrance - The Snakepit"
+      },
+      {
+        "type": "coord",
+        "lat": "47.6",
+        "lon": "13.9"
+      },
+      {
+        "type": "coord",
+        "lat": "45.5",
+        "lon": "12.5",
+        "desc": "on the right path, inside the water"
+      },
+      {
+        "type": "coord",
+        "lat": "43.1",
+        "lon": "10.4",
+        "desc": "in the cave section on the other side of the pond"
+      },
+      {
+        "type": "coord",
+        "lat": "49.1",
+        "lon": "10.0",
+        "desc": "on the left path"
+      },
+      {
+        "type": "coord",
+        "lat": "47.3",
+        "lon": "07.7"
+      },
+      {
+        "type": "description",
+        "text": "Creature levels up to 300 except for small bugs. You need climbing gear or a flyer to get all runes and also Lesser Antidote against swamp fever and mega rabies. You also need something to deal with the poisonous air."
+      },
+      {
+        "type": "entrance",
+        "lat": "83.4",
+        "lon": "21.2",
+        "name": "Cave Entrance - Dvergheim"
+      },
+      {
+        "type": "coord",
+        "lat": "88.2",
+        "lon": "20.1",
+        "desc": "down by the lava lake"
+      },
+      {
+        "type": "coord",
+        "lat": "87.8",
+        "lon": "16.7"
+      },
+      {
+        "type": "coord",
+        "lat": "87.6",
+        "lon": "11.6",
+        "desc": "in the mouth of the large dino skeleton"
+      },
+      {
+        "type": "coord",
+        "lat": "85.8",
+        "lon": "06.8"
+      },
+      {
+        "type": "description",
+        "text": "There is another entrance at 86.2 / 05.3. If you go back to the bridge and look east you can see another cave at the same height. The entrance is by the small purple light (not the large crystals)."
+      },
+      {
+        "type": "entrance",
+        "lat": "86.7",
+        "lon": "12.9",
+        "name": "Cave Entrance - UNKNOWN CAVENAME"
+      },
+      {
+        "type": "coord",
+        "lat": "84.8",
+        "lon": "15.4"
+      },
+      {
+        "type": "coord",
+        "lat": "84.7",
+        "lon": "16.0",
+        "desc": "above you"
+      },
+      {
+        "type": "coord",
+        "lat": "82.5",
+        "lon": "16.3"
+      },
+      {
+        "type": "coord",
+        "lat": "81.1",
+        "lon": "13.7"
+      },
+      {
+        "type": "entrance",
+        "lat": "90.6",
+        "lon": "78.7",
+        "name": "Cave Entrance - Mount Doom Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "90.2",
+        "lon": "79.3"
+      },
+      {
+        "type": "coord",
+        "lat": "89.8",
+        "lon": "83.2"
+      },
+      {
+        "type": "coord",
+        "lat": "89.0",
+        "lon": "86.6"
+      },
+      {
+        "type": "coord",
+        "lat": "88.3",
+        "lon": "85.6",
+        "desc": "on a small ledge near the lava lake"
+      },
+      {
+        "type": "description",
+        "text": "Creatures can have a level that is four times as high as normal (600). You have to fly / climb up after you collected the last rune. Bring Lesser Antidote and good Ghillie Armour."
+      },
+      {
+        "type": "entrance",
+        "lat": "96.0",
+        "lon": "80.9",
+        "name": "Cave Entrance - Throat of Flames"
+      },
+      {
+        "type": "coord",
+        "lat": "95.9",
+        "lon": "81.5"
+      },
+      {
+        "type": "coord",
+        "lat": "96.1",
+        "lon": "84.5"
+      },
+      {
+        "type": "coord",
+        "lat": "91.0",
+        "lon": "91.1"
+      }
+    ]
+  },
+  {
+    "title": "Water Caves",
+    "description": "Underwater cave entrances where SCUBA gear or Lazarus Chowder is recommended.",
+    "elements": [
+      {
+        "type": "entrance",
+        "lat": "03.6",
+        "lon": "04.0",
+        "name": "Cave Entrance - Mariana Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "05.1",
+        "lon": "06.0"
+      },
+      {
+        "type": "coord",
+        "lat": "06.0",
+        "lon": "10.0"
+      },
+      {
+        "type": "coord",
+        "lat": "08.4",
+        "lon": "13.4"
+      },
+      {
+        "type": "description",
+        "text": "Creature levels up to 300. SCUBA gear is required because, unlike the other caves, this one is completely underwater."
+      },
+      {
+        "type": "entrance",
+        "lat": "39.8",
+        "lon": "31.6",
+        "name": "Cave Entrance - Hidden Grotto"
+      },
+      {
+        "type": "coord",
+        "lat": "34.9",
+        "lon": "33.3"
+      },
+      {
+        "type": "coord",
+        "lat": "32.1",
+        "lon": "32.1"
+      },
+      {
+        "type": "description",
+        "text": "Creatures spawn at normal levels, but the entrance of this cave is deep underwater while the cave itself is on land. The Aberrant Megalania inside can cause mega rabies."
+      },
+      {
+        "type": "entrance",
+        "lat": "71.4",
+        "lon": "01.8",
+        "name": "Cave Entrance - Nidisheim"
+      },
+      {
+        "type": "coord",
+        "lat": "73.8",
+        "lon": "05.3",
+        "desc": "on the left side after entering the first room"
+      },
+      {
+        "type": "coord",
+        "lat": "75.5",
+        "lon": "06.4",
+        "desc": "underneath the wooden bridge"
+      },
+      {
+        "type": "coord",
+        "lat": "76.4",
+        "lon": "08.3"
+      },
+      {
+        "type": "description",
+        "text": "The creatures inside can have a level of 300 except the Desmodus and Megalania, which can only reach level 150. Mega rabies from Onyc and Megalania as well as traps in the depths can pose a threat. You need gear or a tame to climb up the shaft; a Shadowmane can easily jump up there."
+      },
+      {
+        "type": "entrance",
+        "lat": "76.7",
+        "lon": "65.6",
+        "name": "Cave Entrance - The Forgotten Caverns"
+      },
+      {
+        "type": "coord",
+        "lat": "75.9",
+        "lon": "70.2"
+      },
+      {
+        "type": "coord",
+        "lat": "73.3",
+        "lon": "71.9"
+      },
+      {
+        "type": "description",
+        "text": "There is a level limit in this cave up to 600 except for the Megalosaurus which can only reach level 150. You can bring a Lazarus Chowder or SCUBA gear for the water part and Lesser Antidote for the actual cave."
+      },
+      {
+        "type": "entrance",
+        "lat": "86.2",
+        "lon": "91.1",
+        "name": "Cave Entrance - Caverns of Time"
+      },
+      {
+        "type": "coord",
+        "lat": "86.8",
+        "lon": "97.0"
+      },
+      {
+        "type": "coord",
+        "lat": "83.3",
+        "lon": "94.5"
+      },
+      {
+        "type": "coord",
+        "lat": "83.6",
+        "lon": "92.5"
+      },
+      {
+        "type": "description",
+        "text": "You can breathe inside the cave and it contains no creatures, but you still have to dive through the water entrance."
+      }
+    ]
+  },
+  {
+    "title": "Asgard",
+    "description": "Other realm - remember to cryopod your tames before traveling back.",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "21.7",
+        "lon": "09.7"
+      },
+      {
+        "type": "coord",
+        "lat": "32.4",
+        "lon": "12.8",
+        "desc": "inside the giant skull"
+      },
+      {
+        "type": "coord",
+        "lat": "27.2",
+        "lon": "17.7"
+      },
+      {
+        "type": "coord",
+        "lat": "19.6",
+        "lon": "24.9"
+      },
+      {
+        "type": "coord",
+        "lat": "20.4",
+        "lon": "44.0"
+      },
+      {
+        "type": "coord",
+        "lat": "31.0",
+        "lon": "53.6"
+      },
+      {
+        "type": "coord",
+        "lat": "39.2",
+        "lon": "50.4"
+      },
+      {
+        "type": "coord",
+        "lat": "45.7",
+        "lon": "55.6"
+      },
+      {
+        "type": "coord",
+        "lat": "42.5",
+        "lon": "40.4"
+      },
+      {
+        "type": "coord",
+        "lat": "42.5",
+        "lon": "30.1"
+      },
+      {
+        "type": "coord",
+        "lat": "56.7",
+        "lon": "25.1"
+      },
+      {
+        "type": "coord",
+        "lat": "66.5",
+        "lon": "13.7"
+      },
+      {
+        "type": "coord",
+        "lat": "63.5",
+        "lon": "30.0"
+      },
+      {
+        "type": "coord",
+        "lat": "60.4",
+        "lon": "35.9"
+      },
+      {
+        "type": "coord",
+        "lat": "62.3",
+        "lon": "48.5"
+      }
+    ]
+  },
+  {
+    "title": "Jotunheim",
+    "description": "The temperature in this realm can drop to -54°C, bring hypothermal insulation.",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "91.0",
+        "lon": "27.1",
+        "desc": "at the top of the cliff"
+      },
+      {
+        "type": "coord",
+        "lat": "91.9",
+        "lon": "50.6"
+      },
+      {
+        "type": "coord",
+        "lat": "84.0",
+        "lon": "56.6",
+        "desc": "high up, on the chunk of ice"
+      },
+      {
+        "type": "coord",
+        "lat": "84.1",
+        "lon": "46.7"
+      },
+      {
+        "type": "coord",
+        "lat": "80.1",
+        "lon": "39.1",
+        "desc": "on the large ice spike high above the ground"
+      },
+      {
+        "type": "coord",
+        "lat": "82.0",
+        "lon": "36.7"
+      },
+      {
+        "type": "coord",
+        "lat": "74.4",
+        "lon": "24.5"
+      },
+      {
+        "type": "coord",
+        "lat": "70.5",
+        "lon": "32.6"
+      },
+      {
+        "type": "coord",
+        "lat": "60.4",
+        "lon": "26.0"
+      },
+      {
+        "type": "coord",
+        "lat": "60.2",
+        "lon": "34.0"
+      },
+      {
+        "type": "coord",
+        "lat": "63.1",
+        "lon": "33.7"
+      },
+      {
+        "type": "coord",
+        "lat": "64.5",
+        "lon": "39.4"
+      },
+      {
+        "type": "coord",
+        "lat": "62.8",
+        "lon": "48.4"
+      },
+      {
+        "type": "coord",
+        "lat": "71.4",
+        "lon": "48.1"
+      },
+      {
+        "type": "coord",
+        "lat": "75.8",
+        "lon": "48.5"
+      }
+    ]
+  },
+  {
+    "title": "Vanaheim",
+    "description": "While the temperature in Jotunheim drop below zero, the coordinates in Vanaheim can do the same and can even go beyond 99.9. I can give you approximate numbers of the coordinates, but your GPS will still only show 0.0 or 99.9. That makes it harder to find the runes, so I added screenshots and hope they will help.",
+    "elements": [
+      {
+        "type": "coord",
+        "lat": "19.5",
+        "lon": "74.8",
+        "desc": "on the trunk of a tree"
+      },
+      {
+        "type": "coord",
+        "lat": "27.7",
+        "lon": "63.3"
+      },
+      {
+        "type": "coord",
+        "lat": "30.7",
+        "lon": "75.7",
+        "desc": "high up, on a trunk"
+      },
+      {
+        "type": "coord",
+        "lat": "31.8",
+        "lon": "83.1"
+      },
+      {
+        "type": "coord",
+        "lat": "29.6",
+        "lon": "89.8"
+      },
+      {
+        "type": "coord",
+        "lat": "18.8",
+        "lon": "101.0",
+        "desc": "approximate coordinates, see below"
+      },
+      {
+        "type": "note",
+        "text": "Standing on 18.7 / 99.8 — go east across the trunk — the rune is on 18.8 / 101.0."
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2271567179624377033/2E244C381964B90D3FAD6275E8F1E5B42CB768B5/"
+      },
+      {
+        "type": "coord",
+        "lat": "10.5",
+        "lon": "97.0"
+      },
+      {
+        "type": "coord",
+        "lat": "-03.0",
+        "lon": "99.7",
+        "desc": "behind the waterfall"
+      },
+      {
+        "type": "note",
+        "text": "Standing on -00.5 / 100.5 facing north — the rune is behind the waterfall at -03.0 / 99.7."
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2271567179624580708/2F3B6BE00EE9327BC8679C5936CC05D4774BAAD7/"
+      },
+      {
+        "type": "coord",
+        "lat": "-03.0",
+        "lon": "102.0",
+        "desc": "top of the rock"
+      },
+      {
+        "type": "note",
+        "text": "Standing at -03.0 / 99.8 — fly straight up from the waterfall and look to the east — the rune is on the top of the rock at -03.0 / 102.0."
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2271567179624703857/86775B3829223D56D11EE82D89703950AE386987/"
+      },
+      {
+        "type": "entrance",
+        "lat": "01.2",
+        "lon": "89.5",
+        "name": "Cave Entrance - Mysterious Grotto"
+      },
+      {
+        "type": "coord",
+        "lat": "02.2",
+        "lon": "91.8",
+        "desc": "the only rune in this cave"
+      },
+      {
+        "type": "coord",
+        "lat": "09.3",
+        "lon": "84.7"
+      },
+      {
+        "type": "coord",
+        "lat": "11.2",
+        "lon": "83.1"
+      },
+      {
+        "type": "coord",
+        "lat": "-07.5",
+        "lon": "68.8",
+        "desc": "rune is in a corner"
+      },
+      {
+        "type": "note",
+        "text": "Standing on 00.6 / 69.8 facing north — go across the Moonwell Lake and a bit further — the rune is in a corner at -07.5 / 68.8."
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2271567179629204172/B4B47C6C9A177DFDF0C17B552A0EF99DA18C3E1B/"
+      },
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2271567179629204768/D645E7B00B74BEA0798F90216304837FA5578197/"
+      },
+      {
+        "type": "coord",
+        "lat": "12.3",
+        "lon": "64.4"
+      },
+      {
+        "type": "entrance",
+        "lat": "12.1",
+        "lon": "64.6",
+        "name": "Cave Entrance - Poison Wyvern cave"
+      },
+      {
+        "type": "coord",
+        "lat": "01.2",
+        "lon": "69.8"
+      }
+    ]
+  },
+  {
+    "title": "Finishing Words",
+    "description": "I hope you could follow the guide and manage to collect all runes, it is a hard challenge to do so, but you can spend your extra points to make your life easier.",
+    "elements": [
+      {
+        "type": "picture",
+        "src": "https://images.steamusercontent.com/ugc/2269315845101785444/5942DA60789979FE090B29AE9C8786894898DAC3/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #ececec;
+    margin: 0;
+    padding: 20px;
+}
+
+h1,
+h2 {
+    color: #4fc3f7;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 16px;
+}
+
+.section {
+    margin: 20px 0;
+    padding: 18px;
+    background: #1e1e1e;
+    border: 1px solid #2f2f39;
+    border-radius: 12px;
+}
+
+.section-desc {
+    margin-top: 10px;
+    color: #c7d2ff;
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+.section-desc.description {
+    margin-left: 26px;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.section-toggle-button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 8px;
+    background: #3d5a70;
+    color: #eef4ff;
+    cursor: pointer;
+}
+
+.section-toggle-button:hover {
+    background: #54768a;
+}
+
+.element {
+    margin: 12px 0;
+}
+
+.element.coord {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.element.coord label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.element .coord-title {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.coord-desc {
+    display: inline;
+    margin-left: 13px;
+    color: #a7c3ff;
+    line-height: 1.5;
+}
+
+.element.note {
+    margin-left: 26px;
+    color: #d7d7d7;
+    background: #1f1f27;
+    border-left: 4px solid #4fc3f7;
+    padding: 12px 14px;
+    border-radius: 10px;
+}
+
+.element.entrance {
+    margin-top: 18px;
+    margin-bottom: 6px;
+    color: #9be5a8;
+    font-weight: 700;
+}
+
+.element.picture {
+    margin-left: 26px;
+}
+
+.element.picture img {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+}
+
+button,
+input[type="file"] {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 8px;
+    background: #27313a;
+    color: #eef4ff;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+button:hover,
+input[type="file"]:hover {
+    background: #315267;
+}
+
+a {
+    color: #73c6ff;
+}
+
+#progress {
+    margin-top: 12px;
+    font-size: 0.98rem;
+}
