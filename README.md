@@ -15,11 +15,10 @@ A comprehensive, interactive checklist for collecting all runes in the ARK: Surv
 
 ## Usage
 
-1. Open `index.html` in your web browser.
-2. Browse sections by region (Vannaland, Balheimr, etc.).
-3. Check off runes as you collect them.
-4. Use "Check All" or "Uncheck All" for global control.
-5. Export your progress to save/load across devices.
+1. Browse sections by region (Vannaland, Balheimr, etc.).
+2. Check off runes as you collect them.
+3. Use "Check All" or "Uncheck All" for global control.
+4. Export your progress to save/load across devices.
 
 ### Controls
 
@@ -27,18 +26,6 @@ A comprehensive, interactive checklist for collecting all runes in the ARK: Surv
 - **Section Buttons**: Toggle all runes in a region.
 - **Export Progress**: Download your checklist as a JSON file.
 - **Import Progress**: Upload a saved JSON to restore state.
-
-## Hosting on GitHub Pages
-
-This static site is optimized for GitHub Pages deployment:
-
-1. Push this repository to GitHub (make it public).
-2. Go to your repository Settings > Pages.
-3. Under "Source", select "Deploy from a branch".
-4. Choose the `main` branch (or create a `gh-pages` branch if preferred).
-5. The site will be live at `https://yourusername.github.io/repository-name/`.
-
-All files are in the root directory, so no additional configuration is needed. Progress data is stored locally in the browser, so it works offline once loaded.
 
 ## Data Structure
 
@@ -55,6 +42,7 @@ Feel free to submit issues or pull requests for:
 - Missing runes or incorrect coordinates.
 - Additional descriptions or images.
 - UI improvements or bug fixes.
+- Other Maps (just send me a working .json!)
 
 ## Credits
 
