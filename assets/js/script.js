@@ -66,7 +66,7 @@ function render(){
           return;
         }
 
-        if(type === 'picture' || type === 'right_picture' || type === 'left_picture'){
+        if(type === 'picture' || type === 'hint' || type === 'right_picture' || type === 'left_picture'){
           const src = el.src || el.img || el.link;
           if(src){
             html += `<div class="element picture ${type}"><a href="${src}" target="_blank" rel="noopener noreferrer"><img src="${src}" alt="Section image"></a></div>`;

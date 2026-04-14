@@ -105,6 +105,10 @@ h1 {
 }
 
 .element.picture {
+    margin: 12px 0px;
+}
+
+.element.hint {
     margin: 12px 26px;
 }
 

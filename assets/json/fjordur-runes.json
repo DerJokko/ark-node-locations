@@ -1287,7 +1287,7 @@
         "text": "Standing on 18.7 / 99.8 — go east across the trunk — the rune is on 18.8 / 101.0."
       },
       {
-        "type": "picture",
+        "type": "hint",
         "src": "assets/img/3104481630_preview_20231216210608_1cut.jpg"
       },
       {
@@ -1306,7 +1306,7 @@
         "text": "Standing on -00.5 / 100.5 facing north — the rune is behind the waterfall at -03.0 / 99.7."
       },
       {
-        "type": "picture",
+        "type": "hint",
         "src": "assets/img/3104481630_preview_20231216213939_1cut.jpg"
       },
       {
@@ -1320,7 +1320,7 @@
         "text": "Standing at -03.0 / 99.8 — fly straight up from the waterfall and look to the east — the rune is on the top of the rock at -03.0 / 102.0."
       },
       {
-        "type": "picture",
+        "type": "hint",
         "src": "assets/img/3104481630_preview_20231216223842_1cut.jpg"
       },
       {
@@ -1356,11 +1356,11 @@
         "text": "Standing on 00.6 / 69.8 facing north — go across the Moonwell Lake and a bit further — the rune is in a corner at -07.5 / 68.8."
       },
       {
-        "type": "picture",
+        "type": "hint",
         "src": "assets/img/3104481630_preview_20231217140254_1cut.jpg"
       },
       {
-        "type": "picture",
+        "type": "hint",
         "src": "assets/img/3104481630_preview_20231217140709_1cut.jpg"
       },
       {

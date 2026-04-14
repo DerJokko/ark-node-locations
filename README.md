@@ -15,7 +15,7 @@ A comprehensive, interactive checklist for collecting all runes in the ARK: Surv
 
 ## Usage
 
-1. Browse sections by region (Vannaland, Balheimr, etc.).
+1. Browse sections by region.
 2. Check off runes as you collect them.
 3. Use "Check All" or "Uncheck All" for global control.
 4. Export your progress to save/load across devices.
@@ -29,12 +29,13 @@ A comprehensive, interactive checklist for collecting all runes in the ARK: Surv
 
 ## Data Structure
 
-Runes are stored in `runes.json` with the following element types:
-- `coord`: Rune coordinates with optional descriptions and images.
-- `entrance`: Cave entrance markers.
-- `note`: Additional tips and warnings.
+Coordinates for a Map are stored in `name.json` with the following element types:
 - `description`: Detailed explanatory text.
-- `picture`: Embedded images.
+- `picture`: Images. Use `left_picture` and `right_picture` for images with text wrapping around.
+- `coord`: Rune coordinates with optional description.
+- `entrance`: Cave entrance markers.
+- `note`: Additional tips and warnings for a coord (indented text).
+- `hint`: Additional showcase for a coord (indented image).
 
 ## Contributing
 
