@@ -233,9 +233,9 @@ function bindControls(){
   }
 }
 
-fetch('runes.json')
-  .then(r => { if(!r.ok) throw new Error('Failed to fetch runes.json'); return r.json(); })
+fetch('assets/json/fjordur-runes.json')
+  .then(r => { if(!r.ok) throw new Error('Failed to fetch assets/json/fjordur-runes.json'); return r.json(); })
   .then(j => { data = j; render(); })
-  .catch(err => { console.error('Failed to load runes.json', err); document.getElementById('content').innerText = 'Failed to load runes.json — check file presence.'; });
+  .catch(err => { console.error('Failed to load assets/json/fjordur-runes.json', err); document.getElementById('content').innerText = 'Failed to load assets/json/fjordur-runes.json — check file presence.'; });
 
 bindControls();
