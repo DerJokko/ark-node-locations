@@ -1,12 +1,15 @@
 [
   {
     "title": "Note!",
-    "description": "Thats the exact copy of the guide a dude postet on steam, but with checkmarks. Shoutout to them! See the original guide here: <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3104481630\" target=\"_blank\">Original Guide</a>. Their pictures, not mine. Everything past this block is borrowed.\n\nAlso for some Reason its 201 Runes but there should be 200. If you find the wrong one, please let me know! Discord: derjokko",
-    "elements": []
+    "elements": [
+      {
+        "type": "description",
+        "text": "Thats the exact copy of the guide a dude postet on steam, but with checkmarks. Shoutout to them! See the original guide here: <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3104481630\" target=\"_blank\">Original Guide</a>. Their pictures, not mine. Everything past this block is borrowed.\n\nAlso for some Reason its 201 Runes but there should be 200. If you find the wrong one, please let me know! Discord: derjokko"
+      }
+    ]
   },
   {
     "title": "Introduction",
-    "description": "",
     "elements": [
       {
         "type": "description",
@@ -52,8 +55,11 @@
   },
   {
     "title": "Vannaland",
-    "description": "Main surface runes and easier cave entries (see notes for cave entrances).",
     "elements": [
+      {
+        "type": "description",
+        "text": "Main surface runes and easier cave entries (see notes for cave entrances)."
+      },
       {
         "type": "coord",
         "lat": "63.9",
@@ -347,8 +353,11 @@
   },
   {
     "title": "Bolbjord",
-    "description": "Small region",
     "elements": [
+      {
+        "type": "description",
+        "text": "Small region"
+      },
       {
         "type": "coord",
         "lat": "44.9",
@@ -373,8 +382,11 @@
   },
   {
     "title": "Vardiland",
-    "description": "Includes waterfalls & rivers",
     "elements": [
+      {
+        "type": "description",
+        "text": "Includes waterfalls & rivers"
+      },
       {
         "type": "coord",
         "lat": "51.2",
@@ -567,8 +579,11 @@
   },
   {
     "title": "Balheimr",
-    "description": "Volcanic / wyvern trench area",
     "elements": [
+      {
+        "type": "description",
+        "text": "Volcanic / wyvern trench area"
+      },
       {
         "type": "coord",
         "lat": "82.1",
@@ -683,8 +698,11 @@
   },
   {
     "title": "Artifact / Large / Demanding Caves",
-    "description": "Large and demanding caves: bring Grappling Hooks, cave flyers, Lesser Antidote and bug repellent where needed. Creature levels can be high (up to 600 in some caves).",
     "elements": [
+      {
+        "type": "description",
+        "text": "Large and demanding caves: bring Grappling Hooks, cave flyers, Lesser Antidote and bug repellent where needed. Creature levels can be high (up to 600 in some caves)."
+      },
       {
         "type": "entrance",
         "lat": "45.5",
@@ -958,8 +976,11 @@
   },
   {
     "title": "Water Caves",
-    "description": "Underwater cave entrances where SCUBA gear or Lazarus Chowder is recommended.",
     "elements": [
+      {
+        "type": "description",
+        "text": "Underwater cave entrances where SCUBA gear or Lazarus Chowder is recommended."
+      },
       {
         "type": "entrance",
         "lat": "03.6",
@@ -1081,8 +1102,11 @@
   },
   {
     "title": "Asgard",
-    "description": "Other realm - remember to cryopod your tames before traveling back.",
     "elements": [
+      {
+        "type": "description",
+        "text": "Other realm - remember to cryopod your tames before traveling back."
+      },
       {
         "type": "coord",
         "lat": "21.7",
@@ -1163,8 +1187,11 @@
   },
   {
     "title": "Jotunheim",
-    "description": "The temperature in this realm can drop to -54°C, bring hypothermal insulation.",
     "elements": [
+      {
+        "type": "description",
+        "text": "The temperature in this realm can drop to -54°C, bring hypothermal insulation."
+      },
       {
         "type": "coord",
         "lat": "91.0",
@@ -1247,8 +1274,11 @@
   },
   {
     "title": "Vanaheim",
-    "description": "While the temperature in Jotunheim drop below zero, the coordinates in Vanaheim can do the same and can even go beyond 99.9. I can give you approximate numbers of the coordinates, but your GPS will still only show 0.0 or 99.9. That makes it harder to find the runes, so I added screenshots and hope they will help.",
     "elements": [
+      {
+        "type": "description",
+        "text": "While the temperature in Jotunheim drop below zero, the coordinates in Vanaheim can do the same and can even go beyond 99.9. I can give you approximate numbers of the coordinates, but your GPS will still only show 0.0 or 99.9. That makes it harder to find the runes, so I added screenshots and hope they will help."
+      },
       {
         "type": "coord",
         "lat": "19.5",
@@ -1383,8 +1413,11 @@
   },
   {
     "title": "Finishing Words",
-    "description": "I hope you could follow the guide and manage to collect all runes, it is a hard challenge to do so, but you can spend your extra points to make your life easier.",
     "elements": [
+      {
+        "type": "description",
+        "text": "I hope you could follow the guide and manage to collect all runes, it is a hard challenge to do so, but you can spend your extra points to make your life easier."
+      },
       {
         "type": "picture",
         "src": "assets/img/3104481630_preview_20231231023151_1cut.jpg"

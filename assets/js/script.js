@@ -39,10 +39,6 @@ function render(){
     }
     html += `</div>`;
 
-    if(section.description){
-      html += `<div class="section-desc">${section.description}</div>`;
-    }
-
     const elements = section.elements || section.runes || [];
     if(elements.forEach){
       elements.forEach((el, elIndex) => {
