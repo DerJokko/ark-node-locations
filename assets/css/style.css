@@ -3,8 +3,9 @@ body {
     background: #121212;
     color: #ececec;
     margin: 0 auto;
-    padding: 20px;
+    padding: 16px;
     max-width: 1024px;
+    font-size: 18px;
 }
 
 h1,
@@ -33,7 +34,7 @@ h1 {
 }
 
 .section-desc.description {
-    margin-left: 26px;
+    margin-left: 0px;
 }
 
 .section-header {
@@ -116,13 +117,13 @@ h1 {
 .element.picture.right_picture {
     float: right;
     max-width: 45%;
-    margin: 16px 0 4px 16px;
+    margin: 16px 0px 4px 16px;
 }
 
 .element.picture.left_picture {
     float: left;
     max-width: 45%;
-    margin: 16px 16px 4px 26px;
+    margin: 16px 16px 4px 0px;
 }
 
 .section:after {
@@ -154,4 +155,54 @@ a {
 #progress {
     margin-top: 12px;
     font-size: 0.98rem;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .section {
+        padding: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    .section {
+        padding: 8px;
+        margin: 10px 0;
+    }
+
+    .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .element.coord {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .element.note {
+        margin-left: 0;
+        padding: 8px 10px;
+    }
+
+    .element.entrance {
+        margin-top: 12px;
+        margin-bottom: 4px;
+    }
+
+    button,
+    input[type="file"] {
+        padding: 8px 10px;
+        margin-right: 4px;
+    }
 }
