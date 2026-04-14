@@ -17,6 +17,10 @@
         "text": "I tried to write the table in a specific order if possible so you don't have to fly back and forth over the whole map, but I wrote the runes you can find in caves seperately, because they require some preperation and even in some easier caves you can't just rush in."
       },
       {
+        "type": "left_picture",
+        "src": "assets/img/3104481630_preview_20231203122222_1 Rune.jpg"
+      },
+      {
         "type": "description",
         "text": "You can collect the runes on your mount which makes it safer to get them and this way even your dino receives the x4 xp bonus for the 600 seconds.\nThe rune icon serves only as counter and if you hold \"H\" you can see how much you already got.\nThe icon does not disappear after you collected all runes, so better get used to it."
       },
@@ -27,6 +31,10 @@
       {
         "type": "description",
         "text": "There are the wikis or videos that tell you the coordinates, but sometimes important additional information about the locations or the caves where the runes are is missing.\nI have collected all runes myself and can provide information to things like rune locations that go beyond what your GPS can display or those that are hidden and this guide should compensate that."
+      },
+      {
+        "type": "right_picture",
+        "src": "assets/img/3104481630_preview_ARK rune_floating.gif"
       },
       {
         "type": "description",
@@ -622,7 +630,7 @@
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2269315845101785022/E8AFFCD7799517A7AC62B2A4943AE12937FB7164/"
+        "src": "assets/img/3104481630_preview_20231210031859_1cut.jpg"
       },
       {
         "type": "coord",
@@ -1280,7 +1288,7 @@
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2271567179624377033/2E244C381964B90D3FAD6275E8F1E5B42CB768B5/"
+        "src": "assets/img/3104481630_preview_20231216210608_1cut.jpg"
       },
       {
         "type": "coord",
@@ -1299,7 +1307,7 @@
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2271567179624580708/2F3B6BE00EE9327BC8679C5936CC05D4774BAAD7/"
+        "src": "assets/img/3104481630_preview_20231216213939_1cut.jpg"
       },
       {
         "type": "coord",
@@ -1313,7 +1321,7 @@
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2271567179624703857/86775B3829223D56D11EE82D89703950AE386987/"
+        "src": "assets/img/3104481630_preview_20231216223842_1cut.jpg"
       },
       {
         "type": "entrance",
@@ -1349,11 +1357,11 @@
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2271567179629204172/B4B47C6C9A177DFDF0C17B552A0EF99DA18C3E1B/"
+        "src": "assets/img/3104481630_preview_20231217140254_1cut.jpg"
       },
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2271567179629204768/D645E7B00B74BEA0798F90216304837FA5578197/"
+        "src": "assets/img/3104481630_preview_20231217140709_1cut.jpg"
       },
       {
         "type": "coord",
@@ -1379,7 +1387,7 @@
     "elements": [
       {
         "type": "picture",
-        "src": "https://images.steamusercontent.com/ugc/2269315845101785444/5942DA60789979FE090B29AE9C8786894898DAC3/"
+        "src": "assets/img/3104481630_preview_20231231023151_1cut.jpg"
       }
     ]
   }

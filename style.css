@@ -2,8 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background: #121212;
     color: #ececec;
-    margin: 0;
+    margin: 0 auto;
     padding: 20px;
+    max-width: 1024px;
 }
 
 h1,
@@ -103,14 +104,31 @@ h1 {
 }
 
 .element.picture {
-    margin-left: 26px;
+    margin: 12px 26px;
 }
 
 .element.picture img {
-    max-width: 100%;
+    width: 100%;
     border-radius: 10px;
     display: block;
-    margin-top: 10px;
+}
+
+.element.picture.right_picture {
+    float: right;
+    max-width: 45%;
+    margin: 16px 0 4px 16px;
+}
+
+.element.picture.left_picture {
+    float: left;
+    max-width: 45%;
+    margin: 16px 16px 4px 26px;
+}
+
+.section:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 button,
