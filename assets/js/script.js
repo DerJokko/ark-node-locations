@@ -115,7 +115,34 @@ function toggle(id){
   render();
 }
 
+function openExportModal(){
+  const timestamp = new Date().toISOString().slice(0,19).replace(/[-:]/g, '').replace('T', '_');
+  const defaultName = `fjordur_save_${timestamp}`;
+  const modal = document.getElementById('exportModal');
+  const fileNameInput = document.getElementById('exportFileName');
+
+  fileNameInput.value = defaultName;
+  modal.classList.remove('hidden');
+  modal.setAttribute('aria-hidden', 'false');
+  fileNameInput.focus();
+}
+
+function closeExportModal(){
+  const modal = document.getElementById('exportModal');
+  modal.classList.add('hidden');
+  modal.setAttribute('aria-hidden', 'true');
+}
+
 function exportJSON(){
+  const fileNameInput = document.getElementById('exportFileName');
+  const rawName = fileNameInput.value.trim();
+
+  if(!rawName){
+    fileNameInput.focus();
+    return;
+  }
+
+  const fileName = `${rawName}.json`;
   let obj = {};
   for(let i = 0; i < localStorage.length; i++){
     const key = localStorage.key(i);
@@ -125,8 +152,9 @@ function exportJSON(){
   const blob = new Blob([JSON.stringify(obj, null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  a.download = 'fjordur_progress.json';
+  a.download = fileName;
   a.click();
+  closeExportModal();
 }
 
 function importJSON(e){
@@ -217,7 +245,18 @@ function bindControls(){
   const uncheckAllButton = document.getElementById('uncheckAllButton');
 
   if(exportButton){
-    exportButton.addEventListener('click', exportJSON);
+    exportButton.addEventListener('click', openExportModal);
+  }
+
+  const exportConfirmButton = document.getElementById('exportConfirmButton');
+  const exportCancelButton = document.getElementById('exportCancelButton');
+
+  if(exportConfirmButton){
+    exportConfirmButton.addEventListener('click', exportJSON);
+  }
+
+  if(exportCancelButton){
+    exportCancelButton.addEventListener('click', closeExportModal);
   }
 
   if(importFile){

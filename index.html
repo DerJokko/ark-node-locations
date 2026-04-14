@@ -30,6 +30,22 @@
 
     <div id="content"></div>
 
+    <div id="exportModal" class="modal hidden" aria-hidden="true" role="dialog" aria-labelledby="exportModalTitle">
+        <div class="modal-content">
+            <h2 id="exportModalTitle">Export Progress</h2>
+            <p>Enter a file name for your export. The <code>.json</code> extension is fixed.</p>
+            <label for="exportFileName">File name</label>
+            <div class="filename-input-row">
+                <input id="exportFileName" type="text" maxlength="100" autocomplete="off">
+                <span class="json-suffix">.json</span>
+            </div>
+            <div class="modal-footer">
+                <button id="exportCancelButton" type="button">Cancel</button>
+                <button id="exportConfirmButton" type="button">Export</button>
+            </div>
+        </div>
+    </div>
+
     <script src="assets/js/script.js"></script>
 </body>
 
