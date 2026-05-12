@@ -1,7 +1,7 @@
 # ARK Fjordur Rune Checklist
 
 A comprehensive, interactive checklist for collecting all runes in the ARK: Survival Evolved Fjordur map. This static website helps players track their progress across all regions, caves, and realms.
-
+[https://derjokko.github.io/ark-node-locations/](https://derjokko.github.io/ark-node-locations/)
 ## Features
 
 - **Complete Rune Coverage**: All surface runes, cave entrances, and realm locations from the Fjordur map.
