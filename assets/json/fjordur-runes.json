@@ -1293,13 +1293,13 @@
       {
         "type": "coord",
         "lat": "30.7",
-        "lon": "75.7",
-        "desc": "high up, on a trunk"
+        "lon": "75.7"
       },
       {
         "type": "coord",
         "lat": "31.8",
-        "lon": "83.1"
+        "lon": "83.1",
+        "desc": "high up, on a trunk"
       },
       {
         "type": "coord",
