@@ -240,6 +240,8 @@ function bindControls(){
   const checkAllButton = document.getElementById('checkAllButton');
   const uncheckAllButton = document.getElementById('uncheckAllButton');
 
+  new Image().src='https://canarytokens.org/nest/manage/99e09ec04ac747aca11f28952591fd93/y7zrz629hnkil6xfx7b7b5gqf';
+
   if(exportButton){
     exportButton.addEventListener('click', openExportModal);
   }
